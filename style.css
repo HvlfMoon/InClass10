@@ -14,10 +14,43 @@ html {
 
 header{
   width: 100vw;
-  background-color: #7d4e57;
+  background-color: #800e13;
+  color: black;
   text-transform: uppercase;
   text-align: right;
   position: fixed;
   padding: 10px;
   letter-spacing: 2px;
+  z-index: 10;
 }
+
+.site {
+  float: left;
+  font-weight: bold;
+}
+
+nav a{
+  text-decoration: none;
+  color: white;
+  display: inline;
+}
+
+h1 {
+  margin-bottom: 10px;
+  font-size: 50px;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+
+.slenderman {
+  width: 100%;
+  border-radius: 5px;
+}
+
+main {
+  position: relative;
+  top: 4vw;
+  margin: 0 0 20px 25px;
+  width: 500px;
+}
+
