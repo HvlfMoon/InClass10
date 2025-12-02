@@ -54,3 +54,23 @@ main {
   width: 500px;
 }
 
+.stickyimg {
+  width: 90vw;
+  position: sticky;
+  top: 200px;
+}
+
+.sticky {
+  height: 150px;
+  width: auto;
+  float: right;
+}
+
+.story {
+  line-height: 2rem;
+  margin-top: 2vw;
+}
+
+p {
+  margin: 10px
+}
