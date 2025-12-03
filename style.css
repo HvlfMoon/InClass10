@@ -36,12 +36,11 @@ nav a{
 }
 
 a {
-  color: ;
-  text-decoration: none;
+  color: white;
 }
 
 a:hover {
-  color: #38040e;
+  color: #ad2831;
 }
 
 h1 {
@@ -81,7 +80,8 @@ main {
 }
 
 p {
-  margin: 10px
+  margin: 10px;
+  text-align: justify;
 }
 
 strong {
